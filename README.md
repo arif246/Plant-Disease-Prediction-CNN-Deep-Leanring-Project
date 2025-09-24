@@ -1,1 +1,1 @@
-# Plant-Disease-Prediction-CNN-Deep-Leanring-Project
+# Plant-Disease-Prediction-CNN-Deep-Leanring
